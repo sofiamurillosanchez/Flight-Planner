@@ -1,0 +1,6 @@
+5
+Dallas Washington T
+Chicago Austin C
+Test1 Test2 C
+Test3 Test4 T
+Dallas Test1 T
